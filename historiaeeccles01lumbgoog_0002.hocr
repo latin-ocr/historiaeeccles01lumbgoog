@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeeccles01lumbgoog_0002.png"; bbox 0 0 2567 3750; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2511 400 2564 2450">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2511 400 2564 2450">
+     <span class='ocr_line' id='line_1_1' title="bbox 2511 400 2564 2450; baseline 75.926 -3264.815"><span class='ocrx_word' id='word_1_1' title='bbox 2519 400 2527 421; x_wconf 28' lang='grc' dir='ltr'>..Α</span> <span class='ocrx_word' id='word_1_2' title='bbox 2511 443 2523 460; x_wconf 70' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 2520 496 2558 1938; x_wconf 44' lang='lat' dir='ltr'>2..&amp;murrnmnuvfimgaw-„aeffl:z3²3:‚33153215.0r.rrmk‚{n..i.553655312.‚³151</span> <span class='ocrx_word' id='word_1_4' title='bbox 2549 1962 2564 2206; x_wconf 45' lang='lat' dir='ltr'>(al-(21:21.</span> <span class='ocrx_word' id='word_1_5' title='bbox 2544 2255 2562 2450; x_wconf 62' lang='lat' dir='ltr'>,iziz-23...</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2266 3750">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2266 3750">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2266 3750"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2266 3750; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
